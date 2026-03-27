@@ -10,7 +10,7 @@ Building real-world ML applications that actually solve problems.
 
 - 🌿 **[Plant Disease Detection](https://plantdiseaseidentification-fjnhtuphau6ftksajmlfa4.streamlit.app)** — CNN-based leaf disease classifier (TensorFlow + Streamlit)
 - 🎌 **[Manga Recommender](https://manga-recommendation-system-g635.onrender.com)** — Collaborative filtering + MangaDex data
-- 💰 **Personal Finance Analysis App** — Live financial data + ML forecasting *(in progress)*
+- 💰 **[Personal Finance Analysis App](https://personal-finance-analysis-production-5f31.up.railway.app)** — UPI Statement Analysis 
 - ⚙️ **[Build Your Own Git](https://github.com/SID1014/git-python-Education)** — Git internals implementation in Python (CodeCrafters)
 
 ---
